@@ -10,3 +10,5 @@ I made this project during the pandemic when I needed a creative outlet but did 
 5. Microcontroller: https://saberforge.com/products/golden-harvest-soundboard
 
 The 3D models I designed and used to house the electronics can be found in this repo as well.
+
+![alt text](Lightsaber.JPG)
